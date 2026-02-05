@@ -21,7 +21,7 @@ This project predicts whether a customer is likely to churn using machine learni
 | `app.py` | Streamlit application to interactively predict churn |
 | `churn_model.pkl` | Trained machine learning model |
 | `scaler.pkl` | Feature scaler used by the model |
-| `customer_churn_prediction.ipynb` | Google Colab notebook with analysis, EDA, and model training |
+| `customer_churn_prediction.py` | Google Colab notebook with analysis, EDA, and model training |
 | `.gitattributes` | Used by Git LFS to handle large files (`.pkl`) |
 
 ---
