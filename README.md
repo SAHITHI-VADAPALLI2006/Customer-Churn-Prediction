@@ -10,7 +10,7 @@ This project predicts whether a customer is likely to churn using machine learni
 
 - **Streamlit app (`app.py`)**: Enter customer details and get instant churn predictions.  
 - **Trained model (`churn_model.pkl`)** and **scaler (`scaler.pkl`)**: Built using a Kaggle dataset and used for predictions.  
-- **Google Colab notebook (`customer_churn_prediction.ipynb`)**: Contains the step-by-step workflow and exploration of the model.
+- **Google Colab notebook (`customer_churn_prediction.py`)**: Contains the step-by-step workflow and exploration of the model.
 
 ---
 
